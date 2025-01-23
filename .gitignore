@@ -1,2 +1,4 @@
 # Project exclude paths
 /venv/
+/bakcend/db.sqlite3
+/backend/media/
